@@ -25,4 +25,4 @@ Outside of work I spend most of my free time with my partner Rosana and step son
 ![This de code in your brain.](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8)
 
 
-You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
+You can view my GitHub repos [HERE](https://danielquilo.github.io/readings-notes-v1/) .
