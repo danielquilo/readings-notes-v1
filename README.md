@@ -18,7 +18,7 @@ Along with learning to code my passions include.
 Outside of work I spend most of my free time with my partner Rosana and step son Ryan.
 
 
-#0969DA ### Growth Mindset ###
+ '#0969DA' ### Growth Mindset ###
 
  **Describes a way of viewing challenges and setbacks. People who have a growth mindset believe that even if they struggle with certain skills, their abilities aren't set in stone. They think that with work, their skills can improve over time**
 
