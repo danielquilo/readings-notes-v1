@@ -11,7 +11,7 @@ Hi my name is Daniel.  I am learning to code.
 
 Along with learning to code my passions include.
 
-- Football
+[x] Football
 - Guitar
 - Movies
 
