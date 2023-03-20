@@ -28,4 +28,4 @@ This markdown file has been made to demonstrate deployment with gitthub pages an
 
 ![this is the octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
-You can viwe my GitHub repos [HERE] (danielquilo/readings-notes-v1) .
+You can viwe my GitHub repos [HERE](danielquilo/readings-notes-v1) .
