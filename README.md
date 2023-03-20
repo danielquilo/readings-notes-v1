@@ -16,4 +16,6 @@ Along with wev develeopment my main passions incluse:
 - Photography 
 - football
 - playing the guitar
-- movie:
+- Movies
+
+outside of work I spend most of my free time with my partner Louise and step son Thomas.
