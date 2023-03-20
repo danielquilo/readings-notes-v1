@@ -12,8 +12,8 @@ Hi my name is Daniel.  I am learning to code.
 Along with learning to code my passions include.
 
 [x] Football
-- Guitar
-- Movies
+[] Guitar
+[] Movies
 
 Outside of work I spend most of my free time with my partner Rosana and step son Ryan.
 
