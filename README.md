@@ -4,6 +4,6 @@
 
 **Document Content**
 
-1. Brief Intro
-2. About
-3. Growth Mindset
+- Brief Intro
+- About
+- Growth Mindset
