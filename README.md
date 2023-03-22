@@ -30,4 +30,5 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 **Code 102**
 Class 01 [Learning Markdown](https://danielquilo.github.io/reading-notes-v1/code-102/102class-01)
+
 Class 02 [Learning Markdown](https://danielquilo.github.io/reading-notes-v1/code-102/102class-02)
