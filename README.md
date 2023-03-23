@@ -34,7 +34,7 @@ Class 01 [Learning Markdown](https://danielquilo.github.io/readings-notes-v1/cod
 
 Class 02 [What is The Coders Computer](https://danielquilo.github.io/readings-notes-v1/code-102/102class-02)
 
-Class 03 [](https://danielquilo.github.io/readings-notes-v1/code-102/102class-03)
+Class 03 [Revisions and the Cloud](https://danielquilo.github.io/readings-notes-v1/code-102/102class-03)
 
 Class 04 [](https://danielquilo.github.io/readings-notes-v1/code-102/102class-04)
 
