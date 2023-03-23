@@ -38,7 +38,7 @@ Class 03 - [Revisions and the Cloud](https://danielquilo.github.io/readings-note
 
 Class 04 - [Structure web pages with HTML](https://danielquilo.github.io/readings-notes-v1/code-102/102class-04)
 
-Class 05 - [What is CSS?](https://danielquilo.github.io/readings-notes-v1/code-102/102class-05)
+Class 05 - [What is CSS](https://danielquilo.github.io/readings-notes-v1/code-102/102class-05)
 
 Class 06 - [](https://danielquilo.github.io/readings-notes-v1/code-102/102class-06)
 
