@@ -44,7 +44,7 @@ Class 06 - [Activate web pages with JavaScript](https://danielquilo.github.io/re
 
 Class 07 - [Programming with JavaScript](https://danielquilo.github.io/readings-notes-v1/code-102/102class-07)
 
-Class 08 - [](https://danielquilo.github.io/readings-notes-v1/code-102/102class-08)
+Class 08 - [Operators and Loops](https://danielquilo.github.io/readings-notes-v1/code-102/102class-08)
 
 ### Code 201 ###
 
