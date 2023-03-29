@@ -25,9 +25,9 @@ Class 08 - [Operators and Loops](https://danielquilo.github.io/readings-notes-v1
 
 ### Code 201 ###
 
-Class 01 [Getting Started](https://danielquilo.github.io/readings-notes-v1/code-201/201class-01)
+Class 01 [Foundations of Software Development](https://danielquilo.github.io/readings-notes-v1/code-201/201class-01)
 
-Class 02 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-02)
+Class 02 [Readings: Basics of HTML, CSS & JS](https://danielquilo.github.io/readings-notes-v1/code-201/201class-02)
 
 Class 03 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-03)
 
