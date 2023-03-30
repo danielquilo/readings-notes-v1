@@ -4,8 +4,7 @@
 
 You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
-
-#### Code 102 ####
+#### Code 102
 
 Class 01 - [Learning Markdown](https://danielquilo.github.io/readings-notes-v1/code-102/102class-01)
 
@@ -23,13 +22,13 @@ Class 07 - [Programming with JavaScript](https://danielquilo.github.io/readings-
 
 Class 08 - [Operators and Loops](https://danielquilo.github.io/readings-notes-v1/code-102/102class-08)
 
-### Code 201 ###
+### Code 201
 
 Class 01 [Foundations of Software Development](https://danielquilo.github.io/readings-notes-v1/code-201/201class-01)
 
 Class 02 [Readings: Basics of HTML, CSS & JS](https://danielquilo.github.io/readings-notes-v1/code-201/201class-02)
 
-Class 03 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-03)
+Class 03 [HTML Lists, Control Flow with JS, and the CSS Box Model](https://danielquilo.github.io/readings-notes-v1/code-201/201class-03)
 
 Class 04 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-04)
 
