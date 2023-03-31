@@ -30,7 +30,7 @@ Class 02 [Readings: Basics of HTML, CSS & JS](https://danielquilo.github.io/read
 
 Class 03 [HTML Lists, Control Flow with JS, and the CSS Box Model](https://danielquilo.github.io/readings-notes-v1/code-201/201class-03)
 
-Class 04 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-04)
+Class 04 [HTML Links, JS Functions, and Intro to CSS Layout](https://danielquilo.github.io/readings-notes-v1/code-201/201class-04)
 
 Class 05 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-05)
 
