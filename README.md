@@ -32,7 +32,7 @@ Class 03 [HTML Lists, Control Flow with JS, and the CSS Box Model](https://danie
 
 Class 04 [HTML Links, JS Functions, and Intro to CSS Layout](https://danielquilo.github.io/readings-notes-v1/code-201/201class-04)
 
-Class 05 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-05)
+Class 05 [Readings: Images, Color, Text](https://danielquilo.github.io/readings-notes-v1/code-201/201class-05)
 
 Class 06 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-06)
 
