@@ -34,9 +34,9 @@ Class 04 [HTML Links, JS Functions, and Intro to CSS Layout](https://danielquilo
 
 Class 05 [Readings: Images, Color, Text](https://danielquilo.github.io/readings-notes-v1/code-201/201class-05)
 
-Class 06 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-06)
+Class 06 [Behavioral Interview Questions](https://danielquilo.github.io/readings-notes-v1/code-201/201class-06)
 
-Class 07 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-07)
+Class 07 [Object-Oriented Programming, HTML Tables](https://danielquilo.github.io/readings-notes-v1/code-201/201class-07)
 
 Class 08 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-08)
 
