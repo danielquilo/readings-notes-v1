@@ -38,7 +38,7 @@ Class 06 [Behavioral Interview Questions](https://danielquilo.github.io/readings
 
 Class 07 [Object-Oriented Programming, HTML Tables](https://danielquilo.github.io/readings-notes-v1/code-201/201class-07)
 
-Class 08 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-08)
+Class 08 [CSS Layout](https://danielquilo.github.io/readings-notes-v1/code-201/201class-08)
 
 Class 09 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-09)
 
