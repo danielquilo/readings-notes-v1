@@ -40,7 +40,7 @@ Class 07 [Object-Oriented Programming, HTML Tables](https://danielquilo.github.i
 
 Class 08 [CSS Layout](https://danielquilo.github.io/readings-notes-v1/code-201/201class-08)
 
-Class 09 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-09)
+Class 09 [Forms and Events](https://danielquilo.github.io/readings-notes-v1/code-201/201class-09)
 
 Class 10 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-10)
 
