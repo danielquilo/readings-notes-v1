@@ -42,14 +42,14 @@ Class 08 [CSS Layout](https://danielquilo.github.io/readings-notes-v1/code-201/2
 
 Class 09 [Forms and Events](https://danielquilo.github.io/readings-notes-v1/code-201/201class-09)
 
-Class 10 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-10)
+Class 10 [ Debugging and Error Handling](https://danielquilo.github.io/readings-notes-v1/code-201/201class-10)
 
-Class 11 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-11)
+Class 11 [ Audio and Video in HTML; Domain Modeling Revisited](https://danielquilo.github.io/readings-notes-v1/code-201/201class-11)
 
-Class 12 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-12)
+Class 12 [- Canvas and ChartJS](https://danielquilo.github.io/readings-notes-v1/code-201/201class-12)
 
-Class 13 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-13)
+Class 13 [- Introduction to Persistence with Local Storage](https://danielquilo.github.io/readings-notes-v1/code-201/201class-13)
 
-Class 14 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-14)
+Class 14 [ Documentation, Project Selection, & Team Workflow](https://danielquilo.github.io/readings-notes-v1/code-201/201class-14)
 
-Class 15 [](https://danielquilo.github.io/readings-notes-v1/code-201/201class-15)
+Class 15 [ Course Recap & 301 Preview](https://danielquilo.github.io/readings-notes-v1/code-201/201class-15)
