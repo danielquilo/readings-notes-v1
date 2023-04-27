@@ -46,9 +46,9 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 * Class 11 - [ Audio and Video in HTML; Domain Modeling Revisited](https://danielquilo.github.io/readings-notes-v1/code-201/201class-11)
 
-* Class 12 - [- Canvas and ChartJS](https://danielquilo.github.io/readings-notes-v1/code-201/201class-12)
+* Class 12 - [ Canvas and ChartJS](https://danielquilo.github.io/readings-notes-v1/code-201/201class-12)
 
-* Class 13 - [- Introduction to Persistence with Local Storage](https://danielquilo.github.io/readings-notes-v1/code-201/201class-13)
+* Class 13 - [ Introduction to Persistence with Local Storage](https://danielquilo.github.io/readings-notes-v1/code-201/201class-13)
 
 * Class 14 - [ Documentation, Project Selection, & Team Workflow](https://danielquilo.github.io/readings-notes-v1/code-201/201class-14)
 
@@ -57,7 +57,7 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 ### Code 301 - Intermediate Software Development
 
-* Pre-work -
+* Pre-work - [A High Level Overview Of React](https://danielquilo.github.io/readings-notes-v1/code-301/301class-pre-work)
 
 * Class 01 -
 
