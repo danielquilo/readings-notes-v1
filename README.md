@@ -6,15 +6,15 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 #### Code 102 - Intro to Software Development
 
-Class 01 - [Learning Markdown](https://danielquilo.github.io/readings-notes-v1/code-102/102class-01)
+* Class 01 - [Learning Markdown](https://danielquilo.github.io/readings-notes-v1/code-102/102class-01)
 
-Class 02 - [What is The Coders Computer](https://danielquilo.github.io/readings-notes-v1/code-102/102class-02)
+* Class 02 - [What is The Coders Computer](https://danielquilo.github.io/readings-notes-v1/code-102/102class-02)
 
-Class 03 - [Revisions and the Cloud](https://danielquilo.github.io/readings-notes-v1/code-102/102class-03)
+* Class 03 - [Revisions and the Cloud](https://danielquilo.github.io/readings-notes-v1/code-102/102class-03)
 
-Class 04 - [Structure web pages with HTML](https://danielquilo.github.io/readings-notes-v1/code-102/102class-04)
+* Class 04 - [Structure web pages with HTML](https://danielquilo.github.io/readings-notes-v1/code-102/102class-04)
 
-Class 05 - [What is CSS](https://danielquilo.github.io/readings-notes-v1/code-102/102class-05)
+* Class 05 - [What is CSS](https://danielquilo.github.io/readings-notes-v1/code-102/102class-05)
 
 Class 06 - [Activate web pages with JavaScript](https://danielquilo.github.io/readings-notes-v1/code-102/102class-06)
 
@@ -57,7 +57,16 @@ Class 15 [ Course Recap & 301 Preview](https://danielquilo.github.io/readings-no
 
 ### Code 301 - Intermediate Software Development
 
-Class  01 
+# Pre-work
 
+Class 01 -
+
+Class 02 -
+
+Class 03 -
+
+Class 04 -
+
+Class 05 -
 
 ### Code 401 - Advanced Software Development
