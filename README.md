@@ -4,7 +4,7 @@
 
 You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
-#### Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development
 
 * Class 01 - [Learning Markdown](https://danielquilo.github.io/readings-notes-v1/code-102/102class-01)
 
@@ -22,7 +22,7 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 * Class 08 - [Operators and Loops](https://danielquilo.github.io/readings-notes-v1/code-102/102class-08)
 
-### Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
 * Class 01 - [Foundations of Software Development](https://danielquilo.github.io/readings-notes-v1/code-201/201class-01)
 
@@ -55,7 +55,7 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 * Class 15 - [ Course Recap & 301 Preview](https://danielquilo.github.io/readings-notes-v1/code-201/201class-15)
   
 
-### Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 * Pre-work - [A High Level Overview Of React](https://danielquilo.github.io/readings-notes-v1/code-301/301class-pre-work)
 
@@ -69,4 +69,4 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 * Class 05 -
 
-### Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
