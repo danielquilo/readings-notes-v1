@@ -57,7 +57,7 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 ## Code 301 - Intermediate Software Development
 
-* Pre-work - [A High Level Overview Of React](https://danielquilo.github.io/readings-notes-v1/code-301/301class-pre-work)
+* Pre-work - [Overview Of React](https://github.com/danielquilo/readings-notes-v1/blob/main/code-301/301class-pre-work.md)
 
 * Class 01 -
 
