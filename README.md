@@ -57,16 +57,30 @@ You can view my GitHub repos [HERE](danielquilo/readings-notes-v1) .
 
 ## Code 301 - Intermediate Software Development
 
+# Module 01 : Module 01: Building the Front End
+
 * Pre-work - [Overview Of React](https://github.com/danielquilo/readings-notes-v1/blob/main/code-301/301class-pre-work.md)
 
-* Class 01 -
+* Class 01 - [Accountability Partners](https://danielquilo.github.io/readings-notes-v1/code-301/301class-01)
 
-* Class 02 -
+* Class 02 - [Career: Class 02: Networking Opportunities](https://danielquilo.github.io/readings-notes-v1/code-301/301class-02)
 
-* Class 03 -
+* Class 03 -[Stage Fright](https://danielquilo.github.io/readings-notes-v1/code-301/301class-03)
 
-* Class 04 -
+* Class 04 -[Code Challenge](https://danielquilo.github.io/readings-notes-v1/code-301/301class-04)
 
-* Class 05 -
+* Class 05 - [Code Challenge](https://danielquilo.github.io/readings-notes-v1/code-301/301class-05)
+
+# Module 02: Integrating the Back End
+
+ Class 06 - [Code Challenge: Class 06](https://danielquilo.github.io/readings-notes-v1/code-301/301class-06)
+
+* Class 07 - [Targeted Job Search](https://danielquilo.github.io/readings-notes-v1/code-301/301class-07)
+
+* Class 08 -[ Professional Pitch and Introduction](https://danielquilo.github.io/readings-notes-v1/code-301/301class-08)
+
+* Class 09 -[Code Challenge](https://danielquilo.github.io/readings-notes-v1/code-301/301class-09)
+
+* Class 10 - [Code Challenge](https://danielquilo.github.io/readings-notes-v1/code-301/301class-10)
 
 ## Code 401 - Advanced Software Development
